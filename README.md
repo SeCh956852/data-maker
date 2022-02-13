@@ -18,7 +18,7 @@
 ## **Tech Stack**
 
 - Python
-- Python Libraries (tkinter, csv)
+- Python Libraries (tkinter, pandas)
 
 ---
 
