@@ -2,7 +2,8 @@
 
 ***Data Maker*** is an application used to generate large amounts of data  
 
-A fun project I made in Python
+
+> A fun project I made in Python
 
 ---
 
