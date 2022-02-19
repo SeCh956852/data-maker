@@ -2,7 +2,7 @@
 
 ***Data Maker*** is an application used to generate large amounts of data  
 
-> SuperRaptor22: This is the best software ever for creating fake data
+A fun project I made in Python
 
 ---
 
