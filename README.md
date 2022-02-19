@@ -21,7 +21,7 @@
 ## **Tech Stack**
 
 - Python
-- Python Libraries (tkinter, pandas)
+- Libraries incl (tkinter, pandas)
 
 ---
 
