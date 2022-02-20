@@ -9,7 +9,7 @@
 
 ---
 
-## **Features**
+## **Features To Be Added**
 
 - Able to generate mass data
 - Customize type of data generated
@@ -27,5 +27,5 @@
 
 ## **How It Works**
 
-Data Maker generates data by randomly selecting from a list of possible data values. This process is repeated until
-the program generates the required amount of data as specified by the user  
+Data Maker generates data by randomly selecting from a list of possible data values, stored in a text file. This process is repeated until
+the program generates the required amount of data as specified by the user.
